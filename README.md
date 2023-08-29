@@ -21,7 +21,6 @@ Hi, I'm Sara. I'm a data analyst with expertise in data storytelling and visuali
 - performing exploratory data analysis.
 - developing dashboards on Tableau and PowerBI.
 - analyzing data and generating reports using Google Sheets and Excel.
-
 <!--
 ### 📚 Projects
 
